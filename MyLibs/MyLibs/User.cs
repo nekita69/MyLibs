@@ -32,7 +32,7 @@ namespace MyLibs
 
         public string GetDateBurn()
         {
-            return DateBurn;
+            return   DateBurn; 
         }
     }
 }
